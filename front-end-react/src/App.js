@@ -1,7 +1,7 @@
 import React from 'react';
 //import logo from './logo.svg';
 //import logo from './h1b.jpg';
-import logo1 from './h1b1.png'
+import logo1 from './h1b2.png'
 import './App.css';
 //<img src={logo} className="App-logo" alt="logo" />
 
@@ -16,6 +16,7 @@ function App() {
         <p>
           Nihar Suryawanshi | Omkar Sahasrabudhe
         </p>
+        <button>Plugin Download</button>
       </header>
     </div>
   );
